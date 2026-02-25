@@ -3,7 +3,7 @@ import java.util.Stack;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class UC6_PalindromeCheckerApp {
+    class UC6_PalindromeCheckerApp {
 
     public static void main(String[] args) {
         System.out.println("--- UC6: Queue + Stack Based Palindrome Check ---");
