@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    class UC8_PalindromeCheckerApp {
+public class UC8_PalindromeCheckerApp {
 
     static class Node {
         char data;
